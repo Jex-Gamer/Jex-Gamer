@@ -1,18 +1,1 @@
-- 👋 Hi, I’m @Jex-Gamer
-- 👀 I’m interested in ...
-- Video Games , Devoloping Games , And Coding
-- 🌱 I’m currently learning ...
-- Html,Python
-- 💞️ I’m looking to collaborate on ...
-- Anyone Who Could Help me
-- 📫 How to reach me ...
-- DM me on Discord
-- 😄 Pronouns: ...
-- Jex/Gamer 
-- ⚡ Fun fact: ...
-- I Eat Pizza With Ranch
-
-<!---
-Jex-Gamer/Jex-Gamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-hi.
